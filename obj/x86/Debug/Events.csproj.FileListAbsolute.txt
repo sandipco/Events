@@ -1,0 +1,4 @@
+F:\Works\Events\Events\bin\Debug\Events.exe
+F:\Works\Events\Events\bin\Debug\Events.pdb
+F:\Works\Events\Events\obj\x86\Debug\Events.exe
+F:\Works\Events\Events\obj\x86\Debug\Events.pdb
